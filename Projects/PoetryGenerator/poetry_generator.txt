@@ -1,0 +1,16 @@
+My program writes a haiku. The first line has five syllables, the second has seven, and the third has five. There are no requirements for rhyming or meter. The lines are connected: the first word of each line is dependent on the last word of the previous line. Likewise, the next word in each line is dependent on the first word of the line.
+
+____________________________________________________________________________________________
+
+
+Poems created by my generator:
+
+1.
+stop thy face again
+give me greater part wisdom
+best conscience my gain
+
+2.
+among these fig third
+witch i laid upon his life
+you are written in

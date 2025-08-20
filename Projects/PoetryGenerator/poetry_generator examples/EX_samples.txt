@@ -1,0 +1,206 @@
+poetry_generatorEX 1:
+
+    Poem 1: shakespeare corpus: all works
+      man goes he keeps Thee here
+      nurse lie down for wealth being not That else
+      shadows seem thus early
+      before Easter that viper with your neck
+
+    Poem 2: shakespeare corpus: all works
+      worn Most probable and
+      or red rays thou back on then bid for it
+      seem scorn to stab CAESAR
+      has given her a calendar of place
+
+    Poem 3: shakespeare corpus: all works
+      mad in mirth in purport
+      woe the blots of promise of Troy To wear
+      of Saxony Mine own
+      us men stand round Neptune with respect
+
+    Poem 4: shakespeare corpus: all works
+      daws to course your lady
+      Lysander riddles and countrymen vile
+      particulars of low
+      vengeance for warnings It had of present
+
+    Poem 5: shakespeare corpus: all works
+      gone before him surgeons
+      bequeath you Against a fire Is too
+      nimble spirit so deep
+      remember that themselves forswear me home
+
+    Poem 6: shakespeare corpus: all works
+      single doom thee here thy
+      your lady nigh your business too free of
+      tongue Hath begg strange my hall
+      lessens his affairs Hath given up And
+
+    Poem 7: shakespeare corpus: all works
+      redress of despised than
+      now will And maidens call love A Sea they
+      o soul Did we could do
+      are free will look sad captains Bear with their
+      
+    Poem 8: shakespeare corpus: all works
+      So shalt live chaste beams of
+      It may command with above our pipes
+      As honour calls within
+      utter sweet love know him is Noble friends
+
+poetry_generator_Ex 2:
+
+    Poem 1: gutenberg corpus: all works
+      before ordained in pang
+      was mindful always goes
+      today the cordage rang
+      to spite The yellow clothes
+      
+    Poem 2: gutenberg corpus: all works
+      adjoining passage there
+      to noble spirit passed
+      engaged for Hirsch affair
+      with truth requires vast
+
+    Poem 3: shakespeare corpus: all works
+      be joy With duty past
+      to plant yourselves apart
+      oration fairly last
+      the ram to greater part
+
+    Poem 4: shakespeare corpus: all works
+      Or as before this hour
+      IAGO This was of
+      The noblest course To our
+      for germans is above
+
+    Poem 5: shakespeare corpus: all works
+      Than twenty pieces that
+      about her rot That stands
+      the ring about his hat
+      the sound him fair commands
+
+    Poem 6: shakespeare corpus: all works
+      to thicken other gold
+      And feel The ears did seem
+      The April never bold
+      an earnest with extreme
+
+    Poem 7: shakespeare corpus: all works
+      And loyal wife and am
+      entomb to tell him three
+      are painted devil damn
+      with due to pardon thee
+      
+    Poem 8: shakespeare corpus: all works
+      And doth her dead or worse
+      Does not Be certain right
+      the primal eldest curse
+      chastise with bloody sight
+      
+    Poem 9: shakespeare corpus: all works
+      the present death that will
+      the tired caesar fought
+      for you proceeded still
+      and bring him dearly bought
+    
+    Poem 10: shakespeare corpus: all works
+      a small to give them take
+      and train titania set
+      is more the players make
+      the wisher brutus let
+
+    Poem 11: shakespeare corpus: all works
+      if you are so bestow
+      the drink is not appeared
+      the turkish fleet are no
+      with league without are cleared
+
+poetry_generator_Ex3:
+
+    Poem 12: shakespeare corpus: all works
+      that is the chaff and knowing what is this
+      upon him off the worse remains to be
+      upon supposed a play the horse that kiss
+      again to win the spirit that can see
+      
+    Poem 13: shakespeare corpus: all works
+      that every roman shall in swearing shake
+      in great oppression for his aid to your
+      the grace and knows his house to make and take
+      dispute it touches of a coward or
+      
+    Poem 14: shakespeare corpus: all works
+      are you convert to every hour is debt
+      them rushes with attendants king himself
+      this instant put him from the sun and yet
+      lorenzo heaven than was like the self
+      
+      remembrance suffer not that your request
+      aside and pity on a noble rite
+      believe it beckons hamlet we will rest
+      the wish yourself a dull revenge will fight
+      
+      ashore is settled age for ever knit
+      to do a song and then the matter whole
+      the nodding violet in another hit
+      the ears to be upon the show the pole
+      
+    Poem 15: shakespeare corpus: all works
+      regard him hold him long continue her
+      and leave this man his train titania come
+      er ladies cannot dream is a good sir
+      a common laugher and the present sum
+      
+      it in a gossip in her tears are those
+      that loam and faces are the witness that
+      upon the marshal to forget it goes
+      deceived in hardness of this presence at
+      
+      was ever keep the ape is it with some
+      the ancient privilege never hated thee
+      him out in capel bitter letter from
+      if i was always plain in want a tree
+      
+      revenge this hand in his and blood to dine
+      that husband than the blood begins with mine
+      
+      
+    Poem 15: shakespeare corpus: all works
+      the manner of suspicion of the moor
+      and madly dote upon them in despite
+      is often have acquainted him for your
+      a march towards his mistress of a light
+      
+      to our strongest works with thee for i
+      and make it so is venice nay it known
+      be colliers hope a wanton dullness my
+      and shrieking her revenge yourselves alone
+      
+      the girl is very sorry neither to
+      are past a soldier music then that she
+      for this is dead for my desire you
+      to maul a rarer spirit as if e
+      
+      alive again to county stays a case
+      lorenzo even now to come apace
+      
+      
+    Poem 16: shakespeare corpus: all works
+      already mothers made them women are
+      agrippa caesar caesar dead are e
+      them find him coming to arraign in our
+      are not derived corruptly fury be
+      
+      in our presence part is gone to tell
+      a ladder turns it not be so secure
+      his fall was not a land the reason well
+      and feature of the matter cannot cure
+      
+      the greatest error of despised than it
+      himself among them shape and caesar to
+      his spirits that the tailor for the fit
+      the world with other captains bear the jew
+      
+      the flames with me that ever scotland where
+      horatio i will show his message ere
